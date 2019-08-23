@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262942688604",
+    "firebase_url": "https://rippo2.firebaseio.com",
+    "project_id": "rippo2",
+    "storage_bucket": "rippo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262942688604:android:202b18cb36ad534f",
+        "android_client_info": {
+          "package_name": "com.kodadam.kacorp.rippo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262942688604-103ehgoi17adikagdvlr640qv78o7v1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kodadam.kacorp.rippo2",
+            "certificate_hash": "080e1da72258df0ec0a4b72509f5074c0a9a76f6"
+          }
+        },
+        {
+          "client_id": "262942688604-ccrs5tp168hgo4q5ln5ciinob4u9l3hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5jTlWU5iNIE3NDVo-WkxP6ToYSw6DZkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262942688604-ccrs5tp168hgo4q5ln5ciinob4u9l3hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

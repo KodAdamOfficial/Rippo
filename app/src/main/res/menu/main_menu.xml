@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/wallet"
+        android:icon="@drawable/wallet"
+        android:title="BTC Wallet"
+        />
+    <item
+        android:id="@+id/wtchads"
+        android:icon="@drawable/earnbp"
+        android:title="Earn BTC Points"
+        />
+    <item
+        android:id="@+id/lottery"
+        android:icon="@drawable/lotteryic"
+        android:title="Lottery"
+        />
+    <item
+        android:id="@+id/withdraw"
+        android:icon="@drawable/withdraw2"
+        android:title="Withdraw"
+        />
+    <item
+        android:id="@+id/dailygift"
+        android:icon="@drawable/gift"
+        android:title="Daily Gift "
+        />
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/info"
+        android:title="Info About App "
+        />
+
+</menu>
